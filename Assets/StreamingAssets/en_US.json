@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "gameMode",
+      "value": "Game Mode"
+    },
+    {
+      "key": "record",
+      "value": "Record"
+    },
+    {
+      "key": "numbers",
+      "value": "Numbers"
+    },
+    {
+      "key": "words",
+      "value": "Words"
+    },
+    {
+      "key": "sequences",
+      "value": "Colors"
+    },
+    {
+      "key": "language",
+      "value": "Language"
+    },
+    {
+      "key": "getReady",
+      "value": "Get Ready"
+    },
+    {
+      "key": "right",
+      "value": "Right"
+    },
+    {
+      "key": "wrong",
+      "value": "Wrong"
+    },
+    {
+      "key": "tutorial",
+      "value": "You need to memorize numbers or words and then reproduce them in the correct sequence"
+    },
+	{
+      "key": "level",
+      "value": "Level:"
+    },
+    {
+      "key": "difficulty",
+      "value": "Difficulty"
+    },
+    {
+      "key": "easy",
+      "value": "Easy"
+    },
+    {
+      "key": "normal",
+      "value": "Normal"
+    },
+    {
+      "key": "hard",
+      "value": "Hard"
+    },
+    {
+      "key": "defeat",
+      "value": "Defeat"
+    },
+    {
+      "key": "continue",
+      "value": "Continue?"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "gameMode",
+      "value": "Режим игры"
+    },
+    {
+      "key": "record",
+      "value": "Рекорд"
+    },
+    {
+      "key": "numbers",
+      "value": "Числа"
+    },
+    {
+      "key": "words",
+      "value": "Слова"
+    },
+    {
+      "key": "sequences",
+      "value": "Цвета"
+    },
+    {
+      "key": "language",
+      "value": "Язык"
+    },
+    {
+      "key": "getReady",
+      "value": "Приготовтесь!"
+    },
+    {
+      "key": "right",
+      "value": "Правильно"
+    },
+    {
+      "key": "wrong",
+      "value": "Ошибка"
+    },
+    {
+      "key": "tutorial",
+      "value": "Надо запоминать последовательности из чисел, слов или цветов и потом повторять. Тренируйте свою память!"
+    },
+    {
+      "key": "level",
+      "value": "Уровень:"
+    },
+    {
+      "key": "difficulty",
+      "value": "Сложность"
+    },
+    {
+      "key": "easy",
+      "value": "Легко"
+    },
+    {
+      "key": "normal",
+      "value": "Нормально"
+    },
+    {
+      "key": "hard",
+      "value": "Сложно"
+    },
+    {
+      "key": "defeat",
+      "value": "Поражение"
+    },
+    {
+      "key": "continue",
+      "value": "Продолжить?"
+    }
+  ]
+}

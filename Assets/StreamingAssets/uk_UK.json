@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "gameMode",
+      "value": "Режим гри"
+    },
+    {
+      "key": "record",
+      "value": "Рекорд"
+    },
+    {
+      "key": "numbers",
+      "value": "Числа"
+    },
+    {
+      "key": "words",
+      "value": "Слова"
+    },
+    {
+      "key": "sequences",
+      "value": "Кольори"
+    },
+    {
+      "key": "language",
+      "value": "Мова"
+    },
+    {
+      "key": "getReady",
+      "value": "Приготуйтесь!"
+    },
+    {
+      "key": "right",
+      "value": "Правильно"
+    },
+    {
+      "key": "wrong",
+      "value": "Помилка"
+    },
+    {
+      "key": "tutorial",
+      "value": "Необхідно запам'ятовувати послідовності з чисел, слів та кольорів, потім відтворювати їх. Тренуйте свою пам'ять!"
+    },
+    {
+      "key": "level",
+      "value": "Рiвень:"
+    },
+    {
+      "key": "difficulty",
+      "value": "Складнiсть"
+    },
+    {
+      "key": "easy",
+      "value": "Легко"
+    },
+    {
+      "key": "normal",
+      "value": "Нормально"
+    },
+    {
+      "key": "hard",
+      "value": "Складно"
+    },
+    {
+      "key": "defeat",
+      "value": "Поразка"
+    },
+    {
+      "key": "continue",
+      "value": "Продовжити?"
+    }
+  ]
+}

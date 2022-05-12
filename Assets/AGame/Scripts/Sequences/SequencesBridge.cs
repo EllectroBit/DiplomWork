@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ColorsBridge : MonoBehaviour
+public class SequencesBridge : MonoBehaviour
 {
     private const int MIN = 0;
     private const int MAX = 24;
@@ -13,11 +13,11 @@ public class ColorsBridge : MonoBehaviour
     private int Current = 0;
     private int LVL = 1;
 
-    private ColorsFacade sequencesFacade;
+    private SequencesFacade sequencesFacade;
 
     private void Awake()
     {
-        sequencesFacade = GameObject.FindObjectOfType<ColorsFacade>();
+        sequencesFacade = GameObject.FindObjectOfType<SequencesFacade>();
     }
 
     public void ShowSequence(GameObject Field)

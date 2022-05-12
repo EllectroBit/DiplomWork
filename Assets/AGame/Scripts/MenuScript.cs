@@ -12,7 +12,6 @@ public class MenuScript : MonoBehaviour
     [SerializeField] private Text WordsRec;
     [SerializeField] private Text SequencesRec;
 
-    private GameObject[] StarsON;
     private string scene;
 
     private void Start()

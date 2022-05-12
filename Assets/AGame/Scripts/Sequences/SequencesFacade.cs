@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ColorsFacade : MonoBehaviour
+public class SequencesFacade : MonoBehaviour
 {
     [SerializeField] private GameObject R_W;
     [SerializeField] private GameObject Panel;
     [SerializeField] private GameObject GetReady;
     [SerializeField] private Text LVL_Text;
 
-    private ColorsBridge sequencesBridge;
-    
+    private SequencesBridge sequencesBridge;
+
     public bool input { private get; set; }
 
     private void Start()
     {
-        sequencesBridge = GameObject.FindObjectOfType<ColorsBridge>();
+        sequencesBridge = GameObject.FindObjectOfType<SequencesBridge>();
         sequencesBridge.SetImages(Panel);
         ResetGame();
     }
